@@ -5,7 +5,7 @@ out/
 go.sum
 go.work
 go.work.sum
-
+wiki_*.txt
 
 # ===== Binaires =====
 *.exe
