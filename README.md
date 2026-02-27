@@ -50,3 +50,27 @@ Cross-platform : Windows / macOS.
   "wiki_lang": "fr",
   "process_top_n": 10
 }
+
+## Installation
+
+```bash
+git clone <repo>
+cd <repo>
+go mod init webops
+go get github.com/PuerkitoBio/goquery
+go mod tidy
+
+## Lancer le programme avec configuration par défaut :
+```bash
+go run .
+
+## Structure projet
+.
+├── main.go
+├── config.json
+├── go.mod
+├── go.sum
+├── out/                  # fichiers générés
+├── data/                 # fichiers d’entrée
+├── .gitignore
+└── README.md
