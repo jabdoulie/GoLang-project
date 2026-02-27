@@ -1,0 +1,3 @@
+Lorem ipsum dolor sit amet
+Go est un langage rapide
+Lorem encore

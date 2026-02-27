@@ -1,0 +1,4 @@
+Lorem ipsum dolor sit amet
+123 test ligne
+Go est un langage rapide
+Lorem encore

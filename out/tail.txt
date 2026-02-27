@@ -1,0 +1,2 @@
+Go est un langage rapide
+Lorem encore

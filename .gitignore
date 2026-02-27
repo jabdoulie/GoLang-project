@@ -1,0 +1,26 @@
+# ===== Dossier de sortie =====
+out/
+
+# ===== Fichiers générés Go =====
+go.sum
+go.work
+go.work.sum
+
+
+# ===== Binaires =====
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# ===== Fichiers temporaires =====
+*.log
+*.tmp
+*.lock
+
+# ===== macOS =====
+.DS_Store
+
+# ===== Windows =====
+Thumbs.db
